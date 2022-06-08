@@ -1,0 +1,24 @@
+* {
+    font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+}
+
+.header-links {
+    display: flex;
+}
+
+.hero-content {
+    display: flex;
+}
+
+.box-container {
+    display: flex;
+}
